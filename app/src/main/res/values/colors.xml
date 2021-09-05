@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- theme colors -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <!-- Generic colors -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey_light">#A0A0A0</color>
+    <color name="grey">#828282</color>
+    <color name="grey_dark">#5A5A5A</color>
+    <color name="black">#FF000000</color>
+    <!-- Menu colors -->
+    <color name="orange_light">#FFBF00</color>
+    <color name="orange">#FF9800</color>
+    <color name="orange_dark">#FF4D15</color>
+    <!-- Game Colors -->
+    <color name="piece_closed">#02B0FF</color>
+    <color name="piece_open">#00FFFFFF</color>
+    <color name="piece_idle">#828282</color>
+    <color name="piece_found">#66BB6A</color>
+</resources>

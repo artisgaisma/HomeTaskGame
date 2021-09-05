@@ -1,0 +1,16 @@
+<resources>
+    <!-- Main -->
+    <string name="app_name">Memory Game</string>
+    <!-- Menu page -->
+    <string name="easy_game">Easy</string>
+    <string name="medium_game">Medium</string>
+    <string name="hard_game">Hard</string>
+    <string name="high_scores">High Scores</string>
+    <!-- Game page -->
+    <string name="go_back">Go back</string>
+    <string name="game_over_template">Game over: %1$s</string>
+    <string name="push_counter_template">Tap`s: %1$d</string>
+    <!-- Scores page-->
+    <string name="no_high_scores">There are no high scores</string>
+
+</resources>
